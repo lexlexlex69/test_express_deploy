@@ -1,0 +1,20 @@
+[2025-02-02 03:39:44] - Input: node_modules\x13 Key.rightKey.right
+[2025-02-02 03:39:34] - Input: 
+
+[2025-02-02 03:39:24] - Input: .gitignore
+[2025-02-02 03:39:14] - Input:  Key.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.left 
+[2025-02-02 03:39:04] - Key pressed: rightKey.rightKey.rightKey.right
+[2025-02-02 03:38:54] - Input: \x03\x16
+
+[2025-02-02 03:38:44] - Input: express_deploy
+[2025-02-02 03:38:34] - Input: test_
+[2025-02-02 03:38:24] - Input: 
+
+[2025-02-02 03:38:14] - Input: git
+[2025-02-02 03:36:34] - Input: ahaha buang
+na amaw naka?
+[2025-02-02 03:36:24] - Input: 
+fddkdkdkd
+h
+[2025-02-02 03:36:14] - Input: \x01testing sdfsdfsfsf
+[2025-02-02 03:35:54] - Input: \x0\x13
