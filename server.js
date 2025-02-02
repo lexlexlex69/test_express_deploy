@@ -37,7 +37,10 @@ app.get("/", (req, res) => {
 app.post("/", (req, res) => {
   console.log(req.body.keyboardData)
 
-  const timestamp = new Date().toISOString().slice(0, 19).replace("T", " ")
+  const timestamp = new Date().toLocaleString("en-PH", {
+    timeZone: "Asia/Manila",
+  })
+
   let newEntry = ""
 
   const data = req.body.keyboardData
