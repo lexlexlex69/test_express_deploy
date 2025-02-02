@@ -1,3 +1,41 @@
+[2025-02-02 07:40:47] - Input: \x03\x03vercel.json
+\x16
+[2025-02-02 07:40:07] - Key pressed: rightKey.rightKey.right 
+[2025-02-02 07:39:57] - Key pressed: rightKey.leftKey.rightKey.rightKey.right
+[2025-02-02 07:39:47] - Key pressed: rightKey.right
+[2025-02-02 07:39:37] - Key pressed: leftKey.leftKey.rightKey.rightKey.rightKey.rightKey.rightKey.right
+[2025-02-02 07:36:57] - Input: sdfsdfsdf
+[2025-02-02 03:47:04] - Input: node
+[2025-02-02 03:45:54] - Input: loy 
+
+[2025-02-02 03:45:44] - Input: dep
+[2025-02-02 03:45:14] - Input: 
+\x16\x1a
+[2025-02-02 03:45:04] - Input: \x03
+
+
+[2025-02-02 03:44:34] - Input: \x03
+[2025-02-02 03:43:44] - Input: testingKey.shift_r_express_deploy
+[2025-02-02 03:42:44] - Input: LexxelshitKey.shift_r2\x01LexxelshitKey.shift_r@1
+[2025-02-02 03:42:14] - Input: none, this is my testing
+[2025-02-02 03:41:54] - Input: lex
+[2025-02-02 03:41:34] - Input: gmail.com
+
+[2025-02-02 03:41:04] - Input: 
+
+[2025-02-02 03:40:54] - Input: render.com
+
+[2025-02-02 03:40:44] - Input:  Key.rightKey.right 
+[2025-02-02 03:40:34] - Input: \x12
+[2025-02-02 03:40:24] - Key pressed: rightKey.rightKey.rightKey.rightKey.rightKey.right
+[2025-02-02 03:40:14] - Input: \x03\x16
+\x12
+[2025-02-02 03:40:04] - Input: \x16
+\x03\x16
+\x03\x16
+
+[2025-02-02 03:39:54] - Key pressed: right git add .
+\x03
 [2025-02-02 03:39:44] - Input: node_modules\x13 Key.rightKey.right
 [2025-02-02 03:39:34] - Input: 
 
